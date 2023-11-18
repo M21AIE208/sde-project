@@ -5,7 +5,7 @@ GraphQL vs REST framework
 
 Python 3.8
 
-#Libraries
+# Libraries
 - Flask
 - SQL-Alchamey
 - Ariadne
